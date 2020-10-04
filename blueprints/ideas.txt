@@ -1,0 +1,15 @@
+1. main idea the main idea is that people can put in their specs and recieve and upgrade choice within there price budget, 
+the website will ask it questions
+to see if they want to keep any of there specs / case
+
+2. it will also ask what they want there new pc what they want it to do, "Editing","Productivity","Gaming"
+
+3. pre configured specs at certian price points
+
+4. compare their specs to the newer specs with the average fps on presets
+
+5. high powered laptops at different price points
+
+6. an option to make an high end, really high end, extreme and ultra extreme presets
+
+7. announcments of today / week 
