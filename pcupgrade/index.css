@@ -23,19 +23,18 @@ header {
     border-bottom: solid 3px rgba(128, 128, 128, 0.5);
 }
 
-header > a {
+header > h2 {
     text-align: left;
     padding-left: 1vw;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans",
         "Helvetica Neue", sans-serif;
     font-weight: 400;
     color: white;
-    text-decoration: none;
     
 }
 
 #landing {
-    background-image: url("../Assets/GDPRINFO.jpg");
+    background-image: url("../Assets/landing.jpg");
     width: 100vw;
     height: 30vw;
     background-size: 100vw;
@@ -95,6 +94,9 @@ header > a {
     color: white;
 }
 
+
+
+
 .finder {
     width: 40vw;
     margin: auto;
@@ -141,12 +143,6 @@ footer {
 footer > table {
     width: 50vw;
     margin: auto;
-}
-
-#Rights {
-    text-align: left;
-    color: white;
-
 }
 
 footer td, footer td a, footer th {
