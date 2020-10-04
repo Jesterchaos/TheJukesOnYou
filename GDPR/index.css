@@ -30,11 +30,10 @@ header > h2 {
         "Helvetica Neue", sans-serif;
     font-weight: 400;
     color: white;
-    
 }
 
 #landing {
-    background-image: url("Assets/landing.jpg");
+    background-image: url("Assets/lGDPRINFO.jpg");
     width: 100vw;
     height: 30vw;
     background-size: 100vw;
@@ -140,6 +139,12 @@ footer {
 footer > table {
     width: 50vw;
     margin: auto;
+}
+
+#Rights {
+    text-align: left;
+    color: white;
+
 }
 
 footer td, footer td a, footer th {
